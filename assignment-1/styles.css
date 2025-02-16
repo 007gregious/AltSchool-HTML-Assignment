@@ -4,6 +4,10 @@
   font-style: normal;
 }
 
+* {
+  scroll-behavior: smooth;
+}
+
 /* Reset some default styles */
 body {
   margin: 0;
